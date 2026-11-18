@@ -1,0 +1,9 @@
+"""Production capacity is separate from immutable legacy97 fixture identity."""
+PRODUCTION_FRAME_MIN = 1
+PRODUCTION_FRAME_MAX = None
+LEGACY_NOISE_FIXTURE_CAPACITY = 97
+PRODUCTION_NOISE_BANK_CAPACITY = 150
+PRODUCTION_FIXTURE_WRAPPER_SHA256 = 'aa842bcf1574d620eb059aa273bd642a694218f83940569e1b2c0f0ec2654a92'
+                                                                                              
+PRODUCTION_NOISE_BANK_SHA256 = {'low': 'ee6b0b1a1f863c11e2bc323563758132f5558a6ccef4d143265232d1e70c9197', 'high': '311e6909cb6fcd87c6102430ca78310c8f8d523ca48b0fe74e44f8c52bb28bf7'}
+PRODUCTION_NOISE_PRODUCER_JSON_SHA256 = '142881cc7ced969d9b187598788b8faade2c25aad59d086fdcbdbffd38cb8a0c'

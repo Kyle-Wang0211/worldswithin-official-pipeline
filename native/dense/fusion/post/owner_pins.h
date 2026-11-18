@@ -1,0 +1,3 @@
+#pragma once
+inline constexpr const char*kDawnHeaderIdentity="09f60549925d00e4f3972a9d623fe4aa6a1766c5cec308f8eda6ab2ca794aa47";
+inline constexpr const char*kRuntimeOwnerIdentity="existing-native-context0/base-runtime-sha256:ba2c1971b0b6cbd1cc024d9de85d5afd8b99a969696dd76ec960504ff7c3e6de";
